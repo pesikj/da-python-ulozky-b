@@ -7,6 +7,7 @@ Současně platí, že toto je pouze jedno z možných řešení a pokud máš j
 ## Řešení úložek
 
 * [Hodnoty, proměnné, funkce](hodnoty-promenne-funkce.md)
+* [Práce s textem, chroustání seznamů](prace-s-textem-chroustani.md)
 
 ## Pracovní skupiny
 
