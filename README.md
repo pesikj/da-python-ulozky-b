@@ -9,6 +9,13 @@ Současně platí, že toto je pouze jedno z možných řešení a pokud máš j
 * [Hodnoty, proměnné, funkce](hodnoty-promenne-funkce.md)
 * [Práce s textem, chroustání seznamů](prace-s-textem-chroustani.md)
 * [První programy](prvni-programy.md)
+* [Soubory: čtení a zápis](soubory.md)
+* [Podmínky a cykly](podminky-cykly.md)
+
+## Řešení příkladů z lekcí
+
+* [Podmínky a cyklus FOR](podminky_cykly_lekce.md)
+* [Slovníky a JSON](slovniky-json-lekce.md)
 
 ## Pracovní skupiny
 
