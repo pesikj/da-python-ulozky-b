@@ -1,0 +1,86 @@
+[
+    {
+        "first_name": "Adéla",
+        "last_name": "Šimková",
+        "birth_number": "630229/5252",
+        "friends": "Iveta, Hana",
+        "permanent_address": "Veronské Nám. 49\n524 21 Černovice",
+        "phone_number": "729 924 115"
+    },
+    {
+        "first_name": "Emilie",
+        "last_name": "Marešová",
+        "birth_number": "201215/553",
+        "friends": "Tadeáš, Marta, Miroslava",
+        "permanent_address": "Jiřinková 940\n116 09 Velké Opatovice",
+        "phone_number": "777 351 393"
+    },
+    {
+        "first_name": "Otakar",
+        "last_name": "Kučera",
+        "birth_number": "155625/8341",
+        "friends": "Hynek, Erik, Tomáš",
+        "permanent_address": "Žherská 941\n383 98 Mikulášovice",
+        "phone_number": "604 965 934",
+        "mail_address": "Bajkalská 5\n411 22 Vimperk"
+    },
+    {
+        "first_name": "Erik",
+        "last_name": "Vaňková",
+        "birth_number": "195618/7420",
+        "friends": "Sabina, Jindřiška",
+        "permanent_address": "U Rajské Zahrady 596\n475 15 Městec Králové",
+        "phone_number": "777 330 413",
+        "mail_address": "Vajgarská 20\n723 09 Bochov"
+    },
+    {
+        "first_name": "Jindřich",
+        "last_name": "Procházková",
+        "birth_number": "315829/954",
+        "friends": "Lenka, Jaroslav, Alexandra",
+        "permanent_address": "Křimická 1\n221 73 Šluknov",
+        "phone_number": "603 869 141",
+        "mail_address": "Drahanská 75\n208 70 Slatiňany"
+    },
+    {
+        "first_name": "Alexandra",
+        "last_name": "Novotný",
+        "birth_number": "411227/850",
+        "friends": "Emilie, Květoslava, Luboš",
+        "permanent_address": "Na Bojišti 3\n384 19 Rožďalovice",
+        "phone_number": "730 076 984"
+    },
+    {
+        "first_name": "Naděžda",
+        "last_name": "Štěpánek",
+        "birth_number": "596025/5114",
+        "friends": "Ladislav, Kristýna, Renata",
+        "permanent_address": "Mádrova 6\n608 42 Telč",
+        "phone_number": "726 594 599",
+        "mail_address": "V Nížinách 161\n535 23 Rajhrad"
+    },
+    {
+        "first_name": "Daniela",
+        "last_name": "Benešová",
+        "birth_number": "036005/7797",
+        "friends": "Bohumil, Alžběta, Růžena, Květoslava",
+        "permanent_address": "Hůlkova 51\n627 87 Zliv",
+        "phone_number": "608 754 706"
+    },
+    {
+        "first_name": "Marek",
+        "last_name": "Malá",
+        "birth_number": "920301/3138",
+        "friends": "Aleš, Alžběta, Pavlína, Anna",
+        "permanent_address": "Za Arielem 1\n789 13 Počátky",
+        "phone_number": "774 442 176"
+    },
+    {
+        "first_name": "Milena",
+        "last_name": "Hájek",
+        "birth_number": "090922/568",
+        "friends": "Jaromír, Petr, Jozef, Natálie, Jaroslava",
+        "permanent_address": "Kloboukova 10\n134 85 Špindlerův Mlýn",
+        "phone_number": "608 977 658"
+    }
+]

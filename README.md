@@ -20,3 +20,7 @@ Současně platí, že toto je pouze jedno z možných řešení a pokud máš j
 ## Pracovní skupiny
 
 Příklady z pracovních skupin jsou na [samostatné stránce](https://github.com/pesikj/da-pracovni-skupiny).
+
+## Opakovací lekce
+
+* [Opakovací lekce](opakovaci_lekce.md)
