@@ -32,7 +32,14 @@ Vytvoř soubor CSV, který obsahuje následující data:
 
 Dále vytvoř seznam lidí, které můžeme zastihnout ve Středočeském kraji (PSČ začíná číslem 2)
 
-# Maturita
+# Soubor TSV
+
+Načti soubor `battles.tsv` a vytvoř:
+
+- Statistiku, kolikrát byl který rod v pozici útočníků. Útočníci jsou ve sloupcích `attacker_1` až `attacker_4`. Který rod je nejvíce útočný?
+- Pokud je zadaná síla obou armád (sloupce `attacker_size` a `defender_size`, indexy sloupců jsou 17 a 18), vytvoř seznam bitev, kde slabší armáda zvítězila nad silnější (vítěze poznáš podle sloupce `attacker_outcome`, sloupec má index 13 a obsahuje hodnoty *win* a *loss*, do seznamu vlož název bitvy ze sloupce `name`, sloupec má index 0). Kolik takových bitev je?
+
+# Bonus - Maturita
 
 ```
 Jméno,Český jazyk,Anglický jazyk,Matematika,Biologie,Chemie,Informatika
@@ -70,12 +77,6 @@ Následně výstup programu převeď na seznam slovníků. Seznam slovníků by 
 ]
 ```
 
-# Soubor TSV
-
-Načti soubor `battles.tsv` a vytvoř:
-
-- Statistiku, kolikrát byl který rod v pozici útočníků. Útočníci jsou ve sloupcích `attacker_1` až `attacker_4`. Který rod je nejvíce útočný?
-- Pokud je zadaná síla obou armád (sloupce `attacker_size` a `defender_size`, indexy sloupců jsou 17 a 18), vytvoř seznam bitev, kde slabší armáda zvítězila nad silnější (vítěze poznáš podle sloupce `attacker_outcome`, sloupec má index 13 a obsahuje hodnoty *win* a *loss*, do seznamu vlož název bitvy ze sloupce `name`, sloupec má index 0). Kolik takových bitev je?
 
 
 # Bonus - Populace v USA
