@@ -23,4 +23,4 @@ Příklady z pracovních skupin jsou na [samostatné stránce](https://github.co
 
 ## Opakovací lekce
 
-* [Opakovací lekce](opakovaci_lekce.md)
+* [Opakovací lekce](opakovaci_lekce.md), [řešení příkladů](opakovaci_lekce_reseni.md)
